@@ -11,7 +11,10 @@ public class Hello {
 		//민영이 추가한 기능
 		
 		//오후 화이팅 추가 02:30
+		System.out.println("merge");
 
 	}
 	//충돌인가요?
+	//충돌이 아니네요? 콘푸로스트
+
 }
